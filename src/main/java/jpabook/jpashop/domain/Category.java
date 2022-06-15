@@ -3,6 +3,7 @@ package jpabook.jpashop.domain;
 import jpabook.jpashop.domain.item.Item;
 import lombok.Getter;
 import lombok.Setter;
+import org.springframework.web.bind.annotation.RestController;
 
 import javax.persistence.*;
 import java.util.ArrayList;
